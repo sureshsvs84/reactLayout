@@ -89,4 +89,4 @@ This starter kit assumes, you are familiar with JavaScript (ES6). If you are new
 **Sass** - [Sass Guide](http://sass-lang.com/guide)
 
 #### The MIT License (MIT)
-MIT © 2017 Santhosh Sundar
+MIT © 2018 SURESH SELVARAJ
