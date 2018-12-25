@@ -7,7 +7,8 @@ import { Navbar, NavItem, Icon, Dropdown, Button,Col,Row } from "react-materiali
 class Footer extends Component {
     constructor(props) {
         super(props);
-        this.state = {          
+        this.state = {  
+          isopen:false        
         };
     }
     render() {
